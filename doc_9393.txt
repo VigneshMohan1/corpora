@@ -1,0 +1,1 @@
+WordPress Yes Yes WordPress images/wlw/wp-icon.png images/wlw/wp-watermark.png View site Dashboard {blog-postapi-url}/../wp-admin/ {blog-postapi-url}/../wp-admin/post.php?action=edit&post={post-id} 0 Manage Comments images/wlw/wp-comments.png {blog-postapi-url}/../wp-admin/edit-comments.php

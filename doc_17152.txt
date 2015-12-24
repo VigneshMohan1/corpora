@@ -1,0 +1,1 @@
+InStock - schema.org schema.org Documentation Schemas Home Thing > Intangible > Enumeration > ItemAvailability :: InStock Indicates that the item is in stock. Usage: Between 1000 and 10,000 domains [more...] Check for open issues. Schema Version 2.0

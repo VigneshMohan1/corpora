@@ -1,0 +1,1 @@
+Parse error : syntax error, unexpected '$strings' (T_VARIABLE) in /home/cpptcgurgaon/public_html/wp-content/plugins/simple-download-monitor/main.php on line 802

@@ -1,0 +1,1 @@
+Development Blocks :: Krishnagiri Krishnagiri : Sl. No. Name of the block Number of Panchayat village 1 Bargur 36 2 Hosur 30 3 Kaveripattinam 36 4 Kelamangalam 28 5 Krishnagiri 30 6 Mathur 24 7 Shoolagiri 42 8 Thally 50 9 Uttangarai 34 10 Veppanapalli 27  

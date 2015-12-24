@@ -1,0 +1,1 @@
+document.writeln(' Algeria , Angola , Cabo Verde , Georgia , Guinea-Bissau , Guyana , Haiti , Indonesia , Iraq , Jordan , Kyrgyzstan , Lebanon , Liberia , Philippines , Republic of Korea , Sudan , Ukraine , Zambia ');
